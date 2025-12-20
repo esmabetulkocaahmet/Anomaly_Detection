@@ -1,11 +1,11 @@
 2025-01-16 20:09:25,334 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
-2025-01-16 20:09:25,350 - Sniffing sýrasýnda hata oluþtu: Sniffing and sending packets is not available at layer 2: winpcap is not installed. You may use conf.L3socket or conf.L3socket6 to access layer 3
+2025-01-16 20:09:25,350 - Sniffing sÃ½rasÃ½nda hata oluÃ¾tu: Sniffing and sending packets is not available at layer 2: winpcap is not installed. You may use conf.L3socket or conf.L3socket6 to access layer 3
 2025-01-16 20:27:12,692 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
-2025-01-16 20:27:12,700 - Sniffing sýrasýnda hata oluþtu: Sniffing and sending packets is not available at layer 2: winpcap is not installed. You may use conf.L3socket or conf.L3socket6 to access layer 3
+2025-01-16 20:27:12,700 - Sniffing sÃ½rasÃ½nda hata oluÃ¾tu: Sniffing and sending packets is not available at layer 2: winpcap is not installed. You may use conf.L3socket or conf.L3socket6 to access layer 3
 2025-01-16 20:27:20,980 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
-2025-01-16 20:27:20,980 - Sniffing sýrasýnda hata oluþtu: Sniffing and sending packets is not available at layer 2: winpcap is not installed. You may use conf.L3socket or conf.L3socket6 to access layer 3
+2025-01-16 20:27:20,980 - Sniffing sÃ½rasÃ½nda hata oluÃ¾tu: Sniffing and sending packets is not available at layer 2: winpcap is not installed. You may use conf.L3socket or conf.L3socket6 to access layer 3
 2025-01-16 20:38:14,126 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
-2025-01-16 20:38:14,126 - Sniffing sýrasýnda hata oluþtu: Sniffing and sending packets is not available at layer 2: winpcap is not installed. You may use conf.L3socket or conf.L3socket6 to access layer 3
+2025-01-16 20:38:14,126 - Sniffing sÃ½rasÃ½nda hata oluÃ¾tu: Sniffing and sending packets is not available at layer 2: winpcap is not installed. You may use conf.L3socket or conf.L3socket6 to access layer 3
 2025-01-16 20:45:11,404 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
 2025-01-16 20:45:12,765 - Tahmin: Anormal (Attack) | Source: 192.168.2.248, Destination: 13.89.179.8, Protocol: TCP, Paket Boyutu: 55
 2025-01-16 20:45:13,058 - Tahmin: Anormal (Attack) | Source: 13.89.179.8, Destination: 192.168.2.248, Protocol: TCP, Paket Boyutu: 66
